@@ -1,4 +1,13 @@
-### Hi there 👋
+Olá,
+
+Eu sou Marcos e estudo progrmação desde 2021.
+
+Tecnologias
+
+Estas são algumas das tecnologias e ferramentas com as quais já realizei projetos:
+
+
+👋
 
 <!--
 **Marcoshefa/Marcoshefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
