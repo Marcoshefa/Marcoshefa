@@ -1,6 +1,6 @@
 Olá,
 
-Eu sou Marcos e estudo progrmação desde 2021.
+Eu sou Marcos e estudo programação desde 2021.
 
 Tecnologias
 
